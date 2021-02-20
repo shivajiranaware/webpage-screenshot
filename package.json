@@ -1,0 +1,14 @@
+{
+  "name": "webpage-screenshot",
+  "version": "1.0.0",
+  "description": "Get current webpage screenshot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "screenshot"
+  ],
+  "author": "Shivaji Ranaware",
+  "license": "ISC"
+}
